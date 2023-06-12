@@ -21,8 +21,8 @@ This is the root directory of the repository. The directory is structured as fol
      |
      |--- src/                             Source code
      |
-     |--- documentation/                   Further structured documentation of the replication package content
+     |--- documentation/                   Material used to carry out the expriment
      |
-     |--- data/                            Data used 
+     |--- data/                            Sample data submitted by students
                         
   
