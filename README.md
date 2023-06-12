@@ -1,5 +1,5 @@
 ## On the measures of success in replication of controlled experiments with STRIDE
-This repository contains necessary materials used to perform a STRIDE relication study
+This repository contains necessary materials used to perform a STRIDE replication study
 
 ## General Overview 
 Several steps were followd in the execution of this expriement. First, we prepared  a detailed description of the scenario. Second, training videos on th application of STRIDE techniques were also prepared.
@@ -39,7 +39,7 @@ This is the root directory of the repository. The directory is structured as fol
      |
      |--- src/                             Source code
      |
-     |--- documentation/                   Material used to carry out the expriment
+     |--- documentation/                   Material used to carry out the experiment
      |
      |--- data/                            Sample data submitted by students
                         
