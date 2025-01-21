@@ -22,7 +22,24 @@ To aide in the replication, we have made available the following materials;
 3. python notebook
 
 ## How to cite us
-To be updated.
+@article{mbaka2024measures,
+
+  title={On the Measures of Success in Replication of Controlled Experiments with STRIDE},
+  
+  author={Mbaka, Winnie and Tuma, Katja},
+  
+  journal={International Journal of Software Engineering and Knowledge Engineering},
+  
+  volume={34},
+  
+  number={04},
+  
+  pages={623--650},
+  
+  year={2024},
+  
+  publisher={World Scientific}
+}
 
 ## Quick start
 Here a documentation on how to use the replication material should be provided.
