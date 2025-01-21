@@ -22,6 +22,8 @@ To aide in the replication, we have made available the following materials;
 3. python notebook
 
 ## How to cite us
+The scientific article describing design, execution, and main results of this study is available here. If this study is helping your research, consider to cite it is as follows, thanks!
+
 @article{mbaka2024measures,
 
   title={On the Measures of Success in Replication of Controlled Experiments with STRIDE},
